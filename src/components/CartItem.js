@@ -21,7 +21,7 @@ const CartItem = ({ cartItem }) => {
           {cartItem.category}
         </div> */}
         <br />
-        <button
+        {/* <button
           type="button"
           className="remove-btn fs-13 text-dark fw-6"
           onClick={() => removeFromCart(cartItem.courseID)}
@@ -30,7 +30,7 @@ const CartItem = ({ cartItem }) => {
           <span>
             <FaTrashAlt />
           </span>
-        </button>
+        </button> */}
       </div>
     </CartItemWrapper>
   );

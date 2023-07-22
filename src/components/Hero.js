@@ -7,9 +7,10 @@ const Hero = () => {
     <HeroWrapper className="bg-black">
       <div className="container h-100 flex">
         <div className="hero-content">
-          <h1> Ignite Your Mind. Embrace Endless Learning.</h1>
+          <h1>Embrace Endless Learning</h1>
           <p>
-            
+          embark on a journey of knowledge with resources for all
+          Feed your curiosity, never stop growing. 
           </p>
         </div>
       </div>
